@@ -1,0 +1,8 @@
+name: svelte
+version: 0.0.3
+description: Bindings of the Svelte library for building interactive interfaces.
+homepage: https://github.com/nhristov/svelte-dart
+repository: https://github.com/nhristov/svelte-dart
+issue_tracker: https://github.com/nhristov/svelte-dart/issues
+environment:
+    sdk: ">=2.0.0 <3.0.0"
