@@ -1,3 +1,7 @@
+## 0.0.4
+
+-   Switches repo
+
 ## 0.0.3
 
 -   Updates license to its latest version
